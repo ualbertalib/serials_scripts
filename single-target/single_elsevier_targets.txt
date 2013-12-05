@@ -1,0 +1,23 @@
+1080
+0037-1963: Seminars in hematology
+0093-7754: Seminars in oncology
+0270-9295: Seminars in nephrology
+0740-2570: Seminars in diagnostic pathology
+0958-3947: Medical dosimetry
+1051-2276: Journal of renal nutrition
+1043-1489: Seminars in colon and rectal surgery
+1525-1578: The journal of molecular diagnostics
+1424-3903: Pancreatology
+1546-1440: Journal of the American College of Radiology
+1547-5271: Heart rhythm
+1548-5595: Advances in chronic kidney disease
+1939-8654: Journal of medical imaging and radiation sciences
+1875-9742: British Journal of Medical and Surgical Urology
+1875-9181: Surgical Pathology Clinics
+1876-4983: The Journal of the American College of Certified Wound Specialists
+1877-573X: Osteopathic Family Physician
+1877-9182: Cardiac Electrophysiology Clinics
+2213-5103: Journal of the American College of Clinical Wound Specialists
+2213-2600: The Lancet Respiratory Medicine
+2211-7458: Interventional Cardiology Clinics
+2211-5943: Hospital Medicine Clinics
